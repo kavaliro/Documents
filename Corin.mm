@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1408761317545" ID="ID_752146919" MODIFIED="1409360239255" TEXT="Corin">
+<node CREATED="1408761317545" ID="ID_752146919" MODIFIED="1409962234334" TEXT="Corin">
 <node CREATED="1408761547315" ID="ID_1306159498" MODIFIED="1409410859057" POSITION="left" STYLE="bubble" TEXT="Cast">
 <node CREATED="1408761383533" ID="ID_296367028" MODIFIED="1408846533251" TEXT="DannyG">
 <node CREATED="1408761419932" ID="ID_1643657440" MODIFIED="1408761640053" TEXT="Krogan">
@@ -8,6 +8,9 @@
 <node CREATED="1409410877022" ID="ID_224959757" MODIFIED="1409410963129" TEXT="Jailed">
 <icon BUILTIN="stop-sign"/>
 </node>
+</node>
+<node CREATED="1409964556534" ID="ID_809501280" MODIFIED="1409964564355" TEXT="Nathon Omar">
+<node CREATED="1409964566278" ID="ID_61311168" MODIFIED="1409965561659" TEXT="Half-elf"/>
 </node>
 </node>
 <node CREATED="1408761396867" ID="ID_1609059795" MODIFIED="1408761640054" TEXT="Mindy T">
@@ -274,7 +277,7 @@
 <node CREATED="1409410609423" ID="ID_1595776682" MODIFIED="1409410644267" TEXT="4-hour ultimatum to release the Half-Orc, or the city gets destroyed."/>
 <node CREATED="1409410647439" ID="ID_1153424248" MODIFIED="1409410660202" TEXT="Then he vanishes"/>
 </node>
-<node CREATED="1409410674230" FOLDED="true" ID="ID_572325247" MODIFIED="1409412896043" TEXT="We talk to Serona">
+<node CREATED="1409410674230" ID="ID_572325247" MODIFIED="1409414156501" TEXT="We talk to Serona">
 <node CREATED="1409410684424" ID="ID_254930448" MODIFIED="1409410703058" TEXT="She agrees to meet with us and discuss things.">
 <node CREATED="1409410708022" ID="ID_734815873" MODIFIED="1409410745538" TEXT="meeting set at the Foaming Mug"/>
 </node>
@@ -306,7 +309,33 @@
 <node CREATED="1409411535773" ID="ID_1540255012" MODIFIED="1409411559474" TEXT="Mr. Frowny: death by bugbear"/>
 </node>
 </node>
-<node CREATED="1408846247962" FOLDED="true" ID="ID_61426433" MODIFIED="1409410262681" POSITION="left" TEXT="Time System">
+<node CREATED="1409962520924" ID="ID_1841425155" MODIFIED="1409962542448" POSITION="right" TEXT="Session Three">
+<node CREATED="1408847319809" ID="ID_765853683" MODIFIED="1409411092455" TEXT="Location">
+<icon BUILTIN="info"/>
+<node CREATED="1408847325243" ID="ID_168955645" MODIFIED="1408847340513" TEXT="Continent">
+<node CREATED="1408847340515" ID="ID_1021326184" MODIFIED="1408847345645" TEXT="Lashmel"/>
+</node>
+<node CREATED="1408847348826" ID="ID_1372264026" MODIFIED="1408847351977" TEXT="Region">
+<node CREATED="1408847351978" ID="ID_1049457756" MODIFIED="1408847358061" TEXT="Region of Mist"/>
+</node>
+<node CREATED="1408847359609" ID="ID_1180715415" MODIFIED="1409409936467" TEXT="Inside the city of Greatcoast"/>
+</node>
+<node CREATED="1409962545655" ID="ID_833036087" MODIFIED="1409964335459" TEXT="We go to town hall. We present credentials and the mayor is summoned"/>
+<node CREATED="1409964336590" ID="ID_957610015" MODIFIED="1409964363779" TEXT="She dismisses the guards when we mention Orphan"/>
+<node CREATED="1409964364318" ID="ID_694744379" MODIFIED="1409964503515" TEXT="She sends us to meet Nathon Omar"/>
+<node CREATED="1409965737478" ID="ID_1345556407" MODIFIED="1409965751499" TEXT="Nathon explains who Orphan is"/>
+<node CREATED="1409965752310" ID="ID_1483756714" MODIFIED="1409965758979" TEXT="Nathon joins the party"/>
+<node CREATED="1409974184150" ID="ID_444155237" MODIFIED="1409974195411" TEXT="We burn the bugbear&apos;s body"/>
+<node CREATED="1409974135679" ID="ID_1445167124" MODIFIED="1409974159195" TEXT="We head toward Orphan&apos;s keep."/>
+<node CREATED="1409974159814" ID="ID_359027136" MODIFIED="1409974238876" TEXT="We kill three highwaymen, and burn the bodies on day 2"/>
+<node CREATED="1409974210335" ID="ID_511907749" MODIFIED="1409977951836" TEXT="We see a medium blue dragon on day 3, headed toward the keep"/>
+<node CREATED="1409977938736" ID="ID_700033939" MODIFIED="1409977973668" TEXT="We stupidly keep heading toward Orphan&apos;s keep, because we have a death wish."/>
+<node CREATED="1409977975624" ID="ID_1351177854" MODIFIED="1409978004852" TEXT="We arrive at a small village outside the keep. Children are playing, fields are being tended."/>
+<node CREATED="1409978005639" ID="ID_743559312" MODIFIED="1409978021580" TEXT="We stupidly sleep next to the keep"/>
+<node CREATED="1409978022184" ID="ID_362220160" MODIFIED="1409978034220" TEXT="We stupidly go into the keep the next morning."/>
+<node CREATED="1409978034817" ID="ID_1604712688" MODIFIED="1409978082964" TEXT="6 normal sized skellies are slain, followed by one giant skelly. The sconces lit as the skellies were killed."/>
+</node>
+<node CREATED="1408846247962" ID="ID_61426433" MODIFIED="1409414179574" POSITION="left" TEXT="Time System">
 <node CREATED="1408846344249" ID="ID_487842737" MODIFIED="1408846369854" TEXT="Five Tendays = one month = 50 days"/>
 <node CREATED="1408846263146" ID="ID_848366408" MODIFIED="1408846265853" TEXT="Months">
 <node CREATED="1408846276145" ID="ID_1837147333" MODIFIED="1408846291413" TEXT="Hemaul"/>
@@ -318,13 +347,13 @@
 </node>
 <node CREATED="1408846420607" ID="ID_155354544" MODIFIED="1408846474070" TEXT="1 year = 6 months = 300 days"/>
 </node>
-<node CREATED="1408846112848" FOLDED="true" ID="ID_124040545" MODIFIED="1409410283543" POSITION="left" TEXT="Social Pressures">
+<node CREATED="1408846112848" ID="ID_124040545" MODIFIED="1409414179596" POSITION="left" TEXT="Social Pressures">
 <node CREATED="1408846122785" ID="ID_1930254133" MODIFIED="1408846129974" TEXT="Wizards see sorcerers as mostly stuck up. This is partly true, as the very few who can cast due to their bloodline seem to take pride in their heritage that grants them such powers."/>
 <node CREATED="1408846139377" ID="ID_378023634" MODIFIED="1408846140477" TEXT="Sorcerers often see wizards as pretenders. Studying long hours to achieve, what sorcerers see as, only a portion of what true power comes with magical blood."/>
 <node CREATED="1408846156721" ID="ID_1152210685" MODIFIED="1408846158077" TEXT="Half-orcs are seen as a step above scum. While treated with near unlimited respect by their own kind, within the walls of human or other cities they are seen as abominations. This is due to the violent nature displayed through history by the full blood orcs and the many villages laid to waste by them."/>
 <node CREATED="1408846172257" ID="ID_461960484" MODIFIED="1408846173668" TEXT="Spellcasters are normal within the large cities for the most part. There are very few large cities where magic users are shunned for reasons yet unknown. However, even within large cities wizards and sorcerers can be found performing simple acts of magic to enhance festivals and presentations."/>
 </node>
-<node CREATED="1408846580226" FOLDED="true" ID="ID_1129697828" MODIFIED="1409357850261" POSITION="left" TEXT="Pantheon">
+<node CREATED="1408846580226" ID="ID_1129697828" MODIFIED="1409414179618" POSITION="left" TEXT="Pantheon">
 <node CREATED="1408846591633" ID="ID_473123329" MODIFIED="1408846599485" TEXT="House based">
 <node CREATED="1408846620409" ID="ID_964955558" MODIFIED="1408846625061" TEXT="House of Rah">
 <node CREATED="1408846631130" ID="ID_1658845979" MODIFIED="1408846633357" TEXT="Followers of this house believe that power and might are the only way to find truth and happiness."/>
@@ -337,6 +366,7 @@
 </node>
 <node CREATED="1408846682609" ID="ID_199629150" MODIFIED="1408846684366" TEXT="House of Orphan">
 <node CREATED="1408846686187" ID="ID_736738340" MODIFIED="1408846694117" TEXT="This is the only house that worships an individual. Followers of this house believe suffering is required in life to know joy. As such extremists will cause chaos or suffering with the belief it will result in joy. Orphan is the god of this house. Known to be the ultimate bringer of suffering during his time."/>
+<node CREATED="1409963180711" ID="ID_1776619644" MODIFIED="1409963206075" TEXT="Emblem: Red foot with 3 spikes fanned out pointing downward"/>
 </node>
 <node CREATED="1408846703914" ID="ID_689099579" MODIFIED="1408846705221" TEXT="House of Nimptet">
 <node CREATED="1408846710905" ID="ID_1531584982" MODIFIED="1408846712533" TEXT="Followers of this house believe that through beauty, music, and art we find true happiness. These followers are apt to find beauty in some of the most random things in the world."/>
